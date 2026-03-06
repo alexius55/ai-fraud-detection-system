@@ -132,6 +132,19 @@ Possible improvements for future research include:
 
 ---
 
+## Example Prediction
+
+The model can analyse transaction data and determine whether a financial transaction is likely to be fraudulent.
+
+Example output:
+
+Prediction: Fraud  
+Probability: 0.87
+
+This demonstrates how machine learning models can assist financial institutions in detecting suspicious transactions in real time.
+
+---
+
 ## Author
 
 **Alexius-Mitchell Adai Ohiani**

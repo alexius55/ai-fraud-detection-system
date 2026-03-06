@@ -132,6 +132,44 @@ Possible improvements for future research include:
 
 ---
 
+## Installation
+
+Follow these steps to run the project locally.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/alexius55/ai-fraud-detection-system.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd ai-fraud-detection-system
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the notebook
+
+Open Jupyter Notebook and run the main fraud detection model:
+
+```bash
+jupyter notebook
+```
+
+Then open:
+
+```
+fraud_detection_model.ipynb
+```
+
+---
+
 ## Example Prediction
 
 The model can analyse transaction data and determine whether a financial transaction is likely to be fraudulent.
